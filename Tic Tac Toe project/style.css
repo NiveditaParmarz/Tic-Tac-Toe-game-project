@@ -1,0 +1,91 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin-top: 2%;
+    font-size: 50px;
+    color: #f5009b;
+    
+}
+body{
+    
+    background-color: #ffcae9;
+    text-align: center;
+}
+.box{
+    height: 150px;
+    width : 150px;
+    border-radius: 10%;
+    /* border: none; */
+    border-color: #e952de;
+    border-width: 5px;
+    font-size: 50px;
+    background-color: #ff37a6;
+    color: #fcf3c4;
+    /* box-shadow: 2px 2px #f6a2ed; */
+    box-shadow: 2px 2px #0000009f;
+}
+
+.container{
+    height: 480px;
+    width: 480px;
+    margin-top: 4%;
+    /* margin-bottom: 50%; */
+    margin-left: 33%;
+    /* margin-right: 80%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.game{
+    height: 465px;
+    width: 4650px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+#resetbutton{
+    margin-top: 2.5%;
+    height: 40px;
+    width: 110px;
+    border-radius: 50%;
+    font-size: 20px;
+    background-color: #f9aad7;
+    color: #d417ab;
+    border-width: 4px;
+    font-style: bold;
+    /* border-color: #e952de; */
+    border-color: #ff3cec;
+}
+ 
+#h1div{
+    /* background-color: #fdb6de; */
+    background-color: #f8f1ce;
+}
+#newGmBtn{
+    height: 40px;
+    width: 120px;
+    border-radius: 50%;
+    font-size: 17px;
+    background-color: #ffa8d9;
+    color: #d417ab;
+    border-width: 4px;
+    font-style: bold;
+    /* border-color: #e952de; */
+    border-color: #ff3cec;
+}
+
+#msg{
+    font-size: 50px;
+    color: #ff1b98;
+    font-family: cursive;
+    font-style: lucidia handwriting;
+}
+.hide{
+    display: none;
+}
+
+
