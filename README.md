@@ -1,8 +1,8 @@
 This project consists of various elements:
 -> 9 fully functional buttons to mark 'X' or 'O'
--> A 'New Game' button which starts a new game after winning or draw match.
+-> A 'New Game' button that starts a new game after winning a match or a draw match.
 -> A 'Reset' button that erases all the moves played till now and provides a fresh template to start again.
--> Declaration of the winner upon getting the correct combination of the same element.
+-> Declaration of the winner upon getting the correct combination of the same element or declaring Draw.
 
 <img width="1440" alt="Screenshot 2024-07-09 at 6 09 26 PM" src="https://github.com/NiveditaParmarz/Tic-Tac-Toe-game-project/assets/123835781/add06ff5-4af3-4299-827a-e1495411a988">
 
