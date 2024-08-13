@@ -3,8 +3,11 @@ Tic Tac Toe Game 🎮 ❌ ⭕
 This is a simple yet fully functional Tic Tac Toe game developed using HTML, CSS, and JavaScript. The game offers an interactive and engaging experience, allowing players to compete against each other with the following features:
 
 • 9 Interactive Buttons 🤳🏻🕹: Players can mark their moves with 'X' or 'O' using the intuitive and responsive button layout.
+
 • New Game Option ✨🆕: A 'New Game' button resets the game after a match concludes, whether it’s a win or a draw, enabling a fresh start for the next round.
+
 • Reset Feature 🔄: The 'Reset' button clears all the moves made in the current game, providing a clean slate to begin again at any time.
+
 • Winner Declaration 🏆: The game automatically declares the winner when a winning combination is achieved or announces a draw when no more moves are possible.
 
 Layout:
